@@ -1,0 +1,8 @@
+version: 2.5.6
+files:
+  - url: GooseNote-Setup-2.5.6.exe
+    sha512: h7RtAcm8YKBSsE8Ko29NHmZcumV+UCNQAJxdvkh0pMxAzDZxFMhf9AKdnzScjrqzoZtxBID3bMEvA7SfKAbvlQ==
+    size: 81521292
+path: GooseNote-Setup-2.5.6.exe
+sha512: h7RtAcm8YKBSsE8Ko29NHmZcumV+UCNQAJxdvkh0pMxAzDZxFMhf9AKdnzScjrqzoZtxBID3bMEvA7SfKAbvlQ==
+releaseDate: '2026-11-17T01:06:00.000Z'
